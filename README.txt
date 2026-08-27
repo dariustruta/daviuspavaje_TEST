@@ -1,12 +1,8 @@
-DAVIUS Pavaje v8.4 — actualizare produse noi
+DAVIUS Pavaje v12.3
 
-Actualizări față de v8.3:
-- galerie Borduri cu fotografiile originale furnizate;
-- categorie și galerie Rigole din beton;
-- galerie Capace gard / stâlp cu modelele curbat și piramidal;
-- galerie Piatră decorativă cu lucrări reale;
-- modelul NORD și modelul DELTA denumite și fotografiate corect;
-- mesaj: produsele pot fi realizate la comandă în culoarea dorită;
-- designul și comportamentul mobile-first din v8.3 au fost păstrate.
-
-Pentru publicare, încărcați direct conținutul acestui folder în rădăcina repository-ului.
+Modificări față de versiunea anterioară:
+- hero nou, cu pavajul mult mai vizibil pe mobil și desktop;
+- compoziție mobilă păstrată în stilul aprobat;
+- butoanele „Vezi modelele de pavaj” și „Lucrări executate” sunt mai înguste pe mobil;
+- apăsarea pe logo pe mobil revine sus în pagină;
+- restul structurii și funcțiilor site-ului au fost păstrate.
